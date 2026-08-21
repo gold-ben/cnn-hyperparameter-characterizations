@@ -1,0 +1,1 @@
+python main.py --cuda-device 0 --device cuda --random-seed 200 --num-seeds 2 --source gpu0 --dataset-coded CIFAR10 --persistent-gpu-workers

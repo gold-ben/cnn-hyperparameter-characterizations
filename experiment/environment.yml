@@ -1,0 +1,13 @@
+name: gpu_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.1
+  - pytorch
+  - torchvision
+  - torchaudio
+  - scikit-learn
+  - pandas
+prefix: C:\Users\BMorris\miniconda3\envs\gpu_env
